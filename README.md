@@ -1,2 +1,2 @@
 # pong
-Simple python pong using python turtle
+Simple pong using python turtle with some bugs:)
